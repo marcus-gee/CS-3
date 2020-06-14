@@ -8,3 +8,5 @@ documentation, testing, and software architecture. Students will work in teams i
 of the course, teams will focus on testing and extensibility. In the second half of the course, teams will use POSIX APIs, as 
 well as their own code from the first five weeks, to develop a large software deliverable. Software engineering topics covered 
 include code reviews, testing and testability, code readability, API design, refactoring, and documentation."
+
+Course completed: Spring 2018-19
